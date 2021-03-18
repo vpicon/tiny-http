@@ -1,3 +1,6 @@
+# Target executable
+http_server
+
 # Prerequisites
 *.d
 
